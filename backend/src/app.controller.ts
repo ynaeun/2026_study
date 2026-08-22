@@ -6,7 +6,7 @@ import { AppService } from './app.service';
 
 // 수강생 김홍엽 작업 영역
 const currentWorker = "으아아아악";
-const currentWorker = "여기는 단풍브랜치요";
+//const currentWorker = "여기는 단풍브랜치요";
 
 @Controller() //ㅠㅠㅠ
 export class AppController {
@@ -30,4 +30,4 @@ export class AppController {
 }
 
 //수강생 정재경 작업영역
-const currentWorker = "정재경";
+//const currentWorker = "정재경";
