@@ -1,7 +1,7 @@
 # 강의 평가 시스템
 
-React + NestJS + TypeORM + MySQL + JWT 기반의 강의용 웹 애플리케이션입니다.
-
+React + NestJS + TypeORM + MySQL + JWT 기반의 강의용 웹 애플리케이션입니다.<br>
+https://LB-Frontend-883037377.ap-northeast-2.elb.amazonaws.com
 ## 프로젝트 구조
 
 ```
